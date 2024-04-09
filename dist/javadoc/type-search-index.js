@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"gestionColegio","l":"Alumno"},{"p":"gestionColegio","l":"Asignatura"},{"p":"gestionColegio","l":"Colegio"},{"p":"gestionColegio","l":"Persona"},{"p":"gestionColegio","l":"Profesor"}];updateSearchResults();
